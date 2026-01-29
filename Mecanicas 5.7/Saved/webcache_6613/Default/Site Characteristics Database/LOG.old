@@ -1,5 +1,6 @@
-2026/01/29-13:12:28.115 77f8 Log #3: 6 ops saved to Table #4 OK
-2026/01/29-13:12:28.116 77f8 Archiving C:\Users\alumne\Desktop\DadesAlumnes\NaimMartínez\PI_GH\ProjecteIntegrat_GorIsland\Mecanicas 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/01/29-13:12:28.117 77f8 Table #4: 6 entries OK
-2026/01/29-13:12:28.118 77f8 Archiving C:\Users\alumne\Desktop\DadesAlumnes\NaimMartínez\PI_GH\ProjecteIntegrat_GorIsland\Mecanicas 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/01/29-13:12:28.120 77f8 **** Repaired leveldb C:\Users\alumne\Desktop\DadesAlumnes\NaimMartínez\PI_GH\ProjecteIntegrat_GorIsland\Mecanicas 5.7\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 246 bytes. Some data may have been lost. ****
+2026/01/29-13:20:10.162 7460 Log #6: 1 ops saved to Table #7 OK
+2026/01/29-13:20:10.164 7460 Archiving C:\Users\alumne\Desktop\DadesAlumnes\HugoJP\PI\ProjecteIntegrat_GorIsland\Mecanicas 5.7\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
+2026/01/29-13:20:10.164 7460 Table #4: 6 entries OK
+2026/01/29-13:20:10.164 7460 Table #7: 1 entries OK
+2026/01/29-13:20:10.166 7460 Archiving C:\Users\alumne\Desktop\DadesAlumnes\HugoJP\PI\ProjecteIntegrat_GorIsland\Mecanicas 5.7\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/01/29-13:20:10.168 7460 **** Repaired leveldb C:\Users\alumne\Desktop\DadesAlumnes\HugoJP\PI\ProjecteIntegrat_GorIsland\Mecanicas 5.7\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 408 bytes. Some data may have been lost. ****
