@@ -1,0 +1,19 @@
+[24916:2784:0113/153435.410:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24916:20800:0113/153435.501:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24916:2784:0113/153435.565:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24916:2784:0113/153439.850:WARNING:load_error_reporter.cc(72)] Extension error: Expected version "0.0.4", but version was "0.0.5"
+[24916:2784:0113/153512.239:ERROR:device_event_log_impl.cc(196)] [15:35:12.233] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[19600:19516:0113/153918.748:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19600:1100:0113/153918.802:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19600:19516:0113/153918.833:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19600:19516:0113/153923.410:WARNING:load_error_reporter.cc(72)] Extension error: Expected version "0.0.4", but version was "0.0.5"
+[19600:19516:0113/153927.204:ERROR:device_event_log_impl.cc(196)] [15:39:27.201] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[19600:19516:0113/155432.324:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[20336:23308:0113/180454.568:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20336:19120:0113/180454.748:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20336:23308:0113/180454.824:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20336:23308:0113/180507.266:ERROR:device_event_log_impl.cc(196)] [18:05:06.947] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[20336:23308:0113/180508.931:WARNING:load_error_reporter.cc(72)] Extension error: Expected version "0.0.4", but version was "0.0.5"
+[20336:23308:0113/180606.923:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[24916:2784:0113/232802.474:ERROR:device_event_log_impl.cc(196)] [23:28:01.279] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[24916:2784:0113/232949.025:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
