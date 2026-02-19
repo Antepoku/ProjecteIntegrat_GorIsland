@@ -1,0 +1,6 @@
+[31176:18856:0205/111412.170:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31176:16536:0205/111412.230:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[31176:18856:0205/111412.251:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[30264:22344:0205/111415.472:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-425A8665EDE7F56F03969B1871D21CE7 will be ignored
+[31176:18856:0205/111422.126:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension efaidnbmnnnibpcajpcglclefindmkaj
+[31176:18856:0205/135913.081:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
